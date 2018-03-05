@@ -32,7 +32,7 @@ def train_pattern(brain, win, middle_layer, output_layer, pattern):
     refresh(win)
 
 
-def    main():
+def main():
 
     factory = GraphicNeuronFactory()
 
